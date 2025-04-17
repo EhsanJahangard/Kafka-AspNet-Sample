@@ -1,0 +1,9 @@
+{
+
+  "KafkaConfiguration": {
+    "Brokers": "192.168.21.85:9092",
+    "Topic": "sample_topic",
+    "Key": "sample_key",
+    "ConsumerGroup": "sample_consumer_group"
+  }
+}

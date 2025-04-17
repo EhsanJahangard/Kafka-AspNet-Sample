@@ -1,6 +1,6 @@
 {
   "profiles": {
-    "Kafka-AspNet-Sample": {
+    "Kafka-AspNet-Sample-Producer": {
       "commandName": "Project"
     },
     "Container (Dockerfile)": {
