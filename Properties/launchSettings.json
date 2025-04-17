@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Kafka-AspNet-Sample": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
